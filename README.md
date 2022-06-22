@@ -1,3 +1,6 @@
+# Link to the second repo of the part 11:
+<a href="https://github.com/YuliaKokorieva/LearningCICDrepo/">https://github.com/YuliaKokorieva/LearningCICDrepo/</a>
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
