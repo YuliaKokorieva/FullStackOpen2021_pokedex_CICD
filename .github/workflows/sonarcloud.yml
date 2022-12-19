@@ -9,15 +9,6 @@ on:
       types: [opened, synchronize]
 
 jobs:
-  setup:    
-    runs-on: ubuntu-20.04    
-    steps:      
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v2         
-        with:          
-          node-version: '16'
-      - name: npm install
-        run: npm install
   sonarcloud:
     runs-on: ubuntu-latest
     steps:
